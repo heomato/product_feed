@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -236,8 +236,8 @@ hr {
   align-items: stretch; }
   .row > * {
     box-sizing: border-box; }
-  .row.gtr-uniform > * > :last-child {
-    margin-bottom: 0; }
+  /* .row.gtr-uniform > * > :last-child {
+    margin-bottom: 0; } */
   .row.aln-left {
     justify-content: flex-start; }
   .row.aln-center {
@@ -362,8 +362,8 @@ hr {
       align-items: stretch; }
       .row > * {
         box-sizing: border-box; }
-      .row.gtr-uniform > * > :last-child {
-        margin-bottom: 0; }
+      /* .row.gtr-uniform > * > :last-child {
+        margin-bottom: 0; } */
       .row.aln-left {
         justify-content: flex-start; }
       .row.aln-center {
@@ -488,8 +488,8 @@ hr {
       align-items: stretch; }
       .row > * {
         box-sizing: border-box; }
-      .row.gtr-uniform > * > :last-child {
-        margin-bottom: 0; }
+      /* .row.gtr-uniform > * > :last-child {
+        margin-bottom: 0; } */
       .row.aln-left {
         justify-content: flex-start; }
       .row.aln-center {
@@ -614,8 +614,8 @@ hr {
       align-items: stretch; }
       .row > * {
         box-sizing: border-box; }
-      .row.gtr-uniform > * > :last-child {
-        margin-bottom: 0; }
+      /* .row.gtr-uniform > * > :last-child {
+        margin-bottom: 0; } */
       .row.aln-left {
         justify-content: flex-start; }
       .row.aln-center {
@@ -740,8 +740,8 @@ hr {
       align-items: stretch; }
       .row > * {
         box-sizing: border-box; }
-      .row.gtr-uniform > * > :last-child {
-        margin-bottom: 0; }
+      /* .row.gtr-uniform > * > :last-child {
+        margin-bottom: 0; } */
       .row.aln-left {
         justify-content: flex-start; }
       .row.aln-center {
@@ -866,8 +866,8 @@ hr {
       align-items: stretch; }
       .row > * {
         box-sizing: border-box; }
-      .row.gtr-uniform > * > :last-child {
-        margin-bottom: 0; }
+      /* .row.gtr-uniform > * > :last-child {
+        margin-bottom: 0; } */
       .row.aln-left {
         justify-content: flex-start; }
       .row.aln-center {
